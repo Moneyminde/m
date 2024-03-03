@@ -1,0 +1,120 @@
+body {
+    margin: 0;
+}
+.container {
+    width: 100%;
+    height: 1000px;
+    background-color:white;
+}
+
+.recoveredhead {
+    color: white;
+}
+
+.hamburger { 
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 150px;
+    background-color: red;
+    align-items: flex-end;
+}
+
+.dolls{
+    font-size: 50px;
+    margin-top: -20px;
+    margin-right: 10px;
+}
+
+.amount {
+    margin-left: 40px;
+    color: red;
+}
+
+.menu-toggle {
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+}
+
+.bar {
+    width: 30px;
+    height: 3px;
+    background-color: white;
+    margin: 5px ;
+    margin-left: 40px;
+}
+
+.moneydiv{
+    margin-left: 40px;
+}
+.moneylogo{
+    width: 70px;
+    border-radius: 110px;
+    margin-right: 40px;
+}
+
+.arsh{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: solid;
+    margin-top: -35px;
+    background-color: grey;
+}
+
+.calender {
+    width: 15px;
+    margin-right: 3px;
+}
+
+.calenderp {
+    margin-right: 40px;
+    color: white;
+}
+
+.key{
+    margin-left: 40px;
+    color: white;
+}
+
+.eaSyLinks{
+    margin-left: 40px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.logos{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.logosp{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.binance{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.metamask{
+    margin-left: 250px;
+    font-size: 20px; 
+    font-weight: bold;
+}
+
+.trust{
+    margin-left: 240px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.cards{
+    margin-left: 290px;
+    font-size: 20px;
+    font-weight: bold;
+}
